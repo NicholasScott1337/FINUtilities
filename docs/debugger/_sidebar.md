@@ -1,3 +1,3 @@
 <!-- docs/_sidebar.md -->
-[Landing](/#fin-debugger)
-[Quickstart]{/#how-to-use-it]
+[Landing](/debugger#fin-debugger)
+[Quickstart]{/debugger#how-to-use-it]

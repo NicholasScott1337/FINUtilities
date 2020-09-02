@@ -1,2 +1,2 @@
 <!-- docs/_sidebar.md -->
-[Landing](/#ROOT API)
+[Landing](/#root-api)

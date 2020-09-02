@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
-[Landing](/#FIN Communicator)
-[About](/#What is a Root API call)
-[Limits](/#What are the limits)
+[Landing](/#fin-communicator)
+[About](/#what-is-a-root-api-call)
+[Limits](/#what-are-the-limits)

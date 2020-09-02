@@ -2,3 +2,5 @@
 
 * [Home](/)
 * [RootAPI](/rootapi/)
+* [FINDebugger](/debugger/)
+* [FINCommunicator](/communicator/)

@@ -1,0 +1,15 @@
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\bin\Release\netcoreapp3.1\FINDebugger.exe
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\bin\Release\netcoreapp3.1\FINDebugger.deps.json
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\bin\Release\netcoreapp3.1\FINDebugger.runtimeconfig.json
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\bin\Release\netcoreapp3.1\FINDebugger.runtimeconfig.dev.json
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\bin\Release\netcoreapp3.1\FINDebugger.dll
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\bin\Release\netcoreapp3.1\FINDebugger.pdb
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\bin\Release\netcoreapp3.1\FINCommunicator.dll
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\bin\Release\netcoreapp3.1\FINCommunicator.pdb
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\obj\Release\netcoreapp3.1\FINDebugger.csprojAssemblyReference.cache
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\obj\Release\netcoreapp3.1\FINDebugger.AssemblyInfoInputs.cache
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\obj\Release\netcoreapp3.1\FINDebugger.AssemblyInfo.cs
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\obj\Release\netcoreapp3.1\FINDebugger.csproj.CopyComplete
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\obj\Release\netcoreapp3.1\FINDebugger.dll
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\obj\Release\netcoreapp3.1\FINDebugger.pdb
+E:\FIN\FINUtilities\C#\FINDebugger\FINLua\obj\Release\netcoreapp3.1\FINDebugger.genruntimeconfig.cache

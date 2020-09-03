@@ -1,0 +1,5 @@
+E:\FIN\FINUtilities\C#\FINCommunicator\FINCommunicator\bin\Debug\netcoreapp3.1\FINCommunicator.deps.json
+E:\FIN\FINUtilities\C#\FINCommunicator\FINCommunicator\bin\Debug\netcoreapp3.1\FINCommunicator.dll
+E:\FIN\FINUtilities\C#\FINCommunicator\FINCommunicator\obj\Debug\netcoreapp3.1\FINCommunicator.csprojAssemblyReference.cache
+E:\FIN\FINUtilities\C#\FINCommunicator\FINCommunicator\obj\Debug\netcoreapp3.1\FINCommunicator.AssemblyInfoInputs.cache
+E:\FIN\FINUtilities\C#\FINCommunicator\FINCommunicator\obj\Debug\netcoreapp3.1\FINCommunicator.AssemblyInfo.cs

@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="FINCommunicator">
+      <HintPath>..\..\FINCommunicator\FINCommunicator\bin\Release\netcoreapp3.1\FINCommunicator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
